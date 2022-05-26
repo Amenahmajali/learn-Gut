@@ -1,0 +1,8 @@
+<resources>
+       <string name="app_name"> My Weather App</string>
+    <string name="title"> Weather App</string>
+
+    <string name="hint_search"> search by country name </string>
+
+
+</resources>
